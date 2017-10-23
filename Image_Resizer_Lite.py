@@ -16,5 +16,5 @@ for i in range(1,len(sys.argv)):
 	
 import ctypes
 MessageBox = ctypes.windll.user32.MessageBoxA
-MessageBox(None, 'Programmed by Ammar Rajab-ECF', 'Done', 0)
+MessageBox(None, 'Programmed by Ammar Rajab :) ', 'Done', 0)
 	
